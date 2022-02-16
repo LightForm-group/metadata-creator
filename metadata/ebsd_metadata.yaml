@@ -1,0 +1,96 @@
+EBSD:
+  Camera:
+    Binning Mode: 4x4
+    Camera Insertion Distance, mm: N/A
+    Camera Mode: N/A
+    Camera Speed: N/A
+    EBSD Camera Name: Oxford Nordlys
+    Gain: Low
+  Data Rotation:
+    Data Rotation (Euler 1): 0
+    Data Rotation (Euler 2): -90
+    Data Rotation (Euler 3): 0
+    Data Rotation Applied: true
+  Microscope:
+    Aperture: N/A
+    Beam Energy, kV: 20
+    Beam Intensity, nA: 20
+    Scan Mode: N/A
+    Scanning Electron Microscope (SEM) Name: CamScan MX2000
+    Spot Size: 4.5
+  Phase 1:
+    Cell Angle Alpha, deg: 90
+    Cell Angle Beta, deg: 90
+    Cell Angle Gamma, deg: 120
+    Cell Length a, Angstrom: 3.231
+    Cell Length b, Angstrom: 3.231
+    Cell Length c, Angstrom: 5.148
+    Crystal Laue Group: 6/mmm
+    Crystal Space Group H-M: P63/mmc
+    Crystal Space Group Hall: -P 6c 2c
+    Crystal System: hexagonal close-packed (hcp)
+    Phase Name: Zirconium hexagonal close-packed (hcp)
+    Phase Name in Aztec: Zirc-alloy4
+    Space Group Number: 194
+  Phase 2:
+    Cell Angle Alpha, deg: 90
+    Cell Angle Beta, deg: 90
+    Cell Angle Gamma, deg: 90
+    Cell Length a, Angstrom: 3.192
+    Cell Length b, Angstrom: 3.192
+    Cell Length c, Angstrom: 3.192
+    Crystal Laue Group: m-3m
+    Crystal Space Group H-M: Im-3m
+    Crystal Space Group Hall: -I 4 2 3
+    Crystal System: body-centred cubic (bcc)
+    Phase Name: Zirconium body-centred-cubic (bcc)
+    Phase Name in Aztec: Titanium cubic
+    Space Group Number: 229
+  Sample Orientation:
+    Orientation Out Of Plane (Z1): TD (Transverse)
+    Orientation Side, East (X1): RD (Rolling)
+    Orientation Up, North (Y1): ND (Normal)
+  Sample Setup:
+    Magnification, X:
+    - 200
+    - 400
+    - 750
+    - 1200
+    - 2000
+    Tilt, deg: 70
+    Working Distance, mm: 27
+  Stage Scan:
+    Overlap of Stitched Maps, %: 10
+    Stage Scan: true
+Material:
+  Alloy Elements:
+  - Zr
+  - Nb
+  - Sn
+  - Fe
+  - Cr
+  Material Description: Zircaloy-4 with 7 wt.% Nb addition
+  Weight Composition, wt.%:
+  - 91.8
+  - 6.63
+  - 1.23
+  - 0.22
+  - 0.12
+Processing:
+  Processing Description: Cast by induction skull melting. Rolled at 850C in beta-phase
+    field (beta-processed). Annealed at 750C for 5 days with furnace cooling (beta-processed
+    and annealed). Rolled at 725C to 50% reduction and 75% reduction, with 4 passes
+    of 16% reduction at each stage. Heating for 1 hour at the start, then 2 mins between
+    passes. Air cooled after rolling. Annealed samples heat-treated (HT) at 750C for
+    2 hours with furnace cooling.
+  Processing Route:
+  - casting
+  - hot-rolling
+  - annealing
+  Rolling Mill:
+    Linear Speed, ft/min: 35
+    Linear Speed, mm/s: 177.8
+    Roll Diameter, mm: 254
+    Roll Speed, rad/s: 1.4
+    Roll Speed, rpm: 13.37
+    Rolling Mill Description: The University of Manchester
